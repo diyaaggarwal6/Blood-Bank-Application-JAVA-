@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane minHeight="500.0" minWidth="500.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="developer.developerViewController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fa4d4deb" height="70.0" stroke="#ffe5e5" strokeType="INSIDE" width="501.0" />
+      <Text layoutX="164.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ABOUT ME">
+         <font>
+            <Font name="Berlin Sans FB Demi Bold" size="35.0" />
+         </font>
+      </Text>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#04101b" height="140.0" layoutX="78.0" layoutY="89.0" stroke="BLACK" strokeType="INSIDE" width="140.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#04101b" height="140.0" layoutX="257.0" layoutY="89.0" stroke="BLACK" strokeType="INSIDE" width="140.0" />
+      <Text layoutX="23.0" layoutY="287.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tech enthusiast, having decent proficiency in">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="25.0" layoutY="314.0" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="23.0" layoutY="313.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Java,C++,Object Oriented Programming(OOP).">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="26.0" layoutY="340.0" strokeType="OUTSIDE" strokeWidth="0.0" text="I am equipped with a right blend of technical ">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="15.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="and behavioral competencies required in modern">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="23.0" layoutY="395.0" strokeType="OUTSIDE" strokeWidth="0.0" text="digital erawith the belief to creation mindset">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="28.0" layoutY="422.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This project is done under the guidance of ">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="175.0" layoutY="451.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rajesh Bansal">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="122.0" fitWidth="127.0" layoutX="102.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Desktop/Snapchat-66544425.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="122.0" fitWidth="116.0" layoutX="269.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../Desktop/Snapchat-2076060321.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
